@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/virex-diet-de-at-ch/sitemap.xml
+Sitemap: https://virex-diet-de-at-ch.vercel.app/sitemap-vercel.xml
+Sitemap: https://virex-diet-de-at-ch.pages.dev/sitemap-cloudflare.xml
